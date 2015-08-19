@@ -1,5 +1,5 @@
 # dependency-jockey
-Inject dependencies into any function.
+Jock dependencies into any function.
 
 ## Example
 

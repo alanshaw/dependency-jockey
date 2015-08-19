@@ -1,0 +1,34 @@
+{
+  "name": "dependency-jockey",
+  "version": "0.0.0",
+  "description": "The most simple dependency injector",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/dependency-jockey.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "injector",
+    "iot",
+    "inversion",
+    "control"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanshaw/dependency-jockey/issues"
+  },
+  "homepage": "https://github.com/alanshaw/dependency-jockey#readme",
+  "dependencies": {
+    "fn-args": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^5.1.0",
+    "tape": "^4.2.0"
+  }
+}

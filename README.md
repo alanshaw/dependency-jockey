@@ -1,4 +1,4 @@
-# dependency-jockey
+# dependency-jockey [![Build Status](https://travis-ci.org/alanshaw/dependency-jockey.svg)](https://travis-ci.org/alanshaw/dependency-jockey) [![Dependency Status](https://david-dm.org/alanshaw/dependency-jockey.svg)](https://david-dm.org/alanshaw/dependency-jockey)
 Jock dependencies into any function.
 
 ## Example
